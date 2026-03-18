@@ -8,6 +8,16 @@ Build your own platform with **voice room**, **live streaming**, **1v1 call**, *
 ## Keywords for SEO
 voice chat app script, live streaming app source code, audio chat room app, voice room app, clubhouse clone, tiktok clone script, bigo clone script, social live app, real-time chat app, video call app source code
 
+## Product Screenshots
+### Mic Seat Selection
+![Mic Seat Selection](assets/images/mic-seat-selection.png)
+
+### Room Red Packet
+![Room Red Packet](assets/images/room-red-packet.png)
+
+### 5-Seat Voice Room
+![5-Seat Voice Room](assets/images/five-seat-room.png)
+
 ## Main Features
 - Multi-user voice chat rooms
 - Live streaming and audience interaction
@@ -17,6 +27,19 @@ voice chat app script, live streaming app source code, audio chat room app, voic
 - VIP / noble level system
 - Admin dashboard and content moderation
 - Global deployment support
+
+## Demo Code Included
+This repository now includes a lightweight Node.js demo for room state simulation:
+- Room seat management
+- User join/leave flow
+- Gift sending log stream
+
+Run:
+
+```bash
+npm install
+npm start
+```
 
 ## Best For
 - Entrepreneurs launching a social audio app
