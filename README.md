@@ -5,8 +5,9 @@
 A production-ready **voice chat app script** for startups and agencies.
 Build your own platform with **voice room**, **live streaming**, **1v1 call**, **gift system**, **short video**, and **social feed** features.
 
-## Keywords for SEO
-voice chat app script, live streaming app source code, audio chat room app, voice room app, clubhouse clone, tiktok clone script, bigo clone script, social live app, real-time chat app, video call app source code
+<!--
+seo: voice chat app script, live streaming app source code, audio chat room app, voice room app, clubhouse clone, tiktok clone script, bigo clone script, social live app, real-time chat app, video call app source code
+-->
 
 ## Product Screenshots
 ### Mic Seat Selection
